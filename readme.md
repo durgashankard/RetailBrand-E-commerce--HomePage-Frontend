@@ -7,7 +7,7 @@ This project showcases a clean UI design with product listings, carousel banners
 
 ## 🚀 Live Demo
 
-👉 (Add your GitHub Pages link here after deployment)
+👉 https://durgashankard.github.io/RetailBrand-E-commerce-Frontend/
 
 ---
 
@@ -81,7 +81,17 @@ cd RetailBrand-E-commerce-Frontend
 
 ## 📸 Screenshots
 
-(Add screenshots here later for better presentation)
+<img width="1897" height="574" alt="image" src="https://github.com/user-attachments/assets/6ad4d89d-eb48-4e9f-82e9-869f8809dfb4" />
+
+<img width="1899" height="797" alt="image" src="https://github.com/user-attachments/assets/f31bb4c4-c80c-498c-ae44-31cb121cffe8" />
+
+<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/2572f06e-df14-4449-a255-09759f2a60fc" />
+
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/ddc48225-70a4-422d-b777-d8068c27d465" />
+
+
+
+
 
 ---
 
@@ -96,7 +106,7 @@ cd RetailBrand-E-commerce-Frontend
 
 ## 👨‍💻 Author
 
-**Durgesh Dangi**
+**Durgashankar Dangi**
 
 * GitHub: https://github.com/durgashankard
 
