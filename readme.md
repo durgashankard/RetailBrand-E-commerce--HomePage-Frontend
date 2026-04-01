@@ -47,35 +47,6 @@ RetailBrand-E-commerce-Frontend/
 
 ---
 
-## ⚙️ Setup & Usage
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/durgashankard/RetailBrand-E-commerce-Frontend.git
-```
-
-2. Open project folder:
-
-```bash
-cd RetailBrand-E-commerce-Frontend
-```
-
-3. Run the project:
-
-* Simply open `index.html` in your browser
-
----
-
-## 🌐 Deployment (GitHub Pages)
-
-1. Go to your repository on GitHub
-2. Click **Settings → Pages**
-3. Select:
-
-   * Branch: `main`
-   * Folder: `/root`
-4. Save and get your live link 🚀
 
 ---
 
