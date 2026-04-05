@@ -58,6 +58,9 @@ RetailBrand-E-commerce-Frontend/
 
 <img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/2572f06e-df14-4449-a255-09759f2a60fc" />
 
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/feb7b7f7-8cbc-4407-a53e-c985c5af1896" />
+
+
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/ddc48225-70a4-422d-b777-d8068c27d465" />
 
 
